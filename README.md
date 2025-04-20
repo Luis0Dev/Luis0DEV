@@ -1,15 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Luís;I'm+22+years+old;I'm+from+Brazil;I'm+Studing+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a Computer Engineering graduate, currently working as a Software Engineer focused on SaaS solutions, with an emphasis on cloud development using the SAP BTP platform and SAP CAP. I work in native environments as an SAP ABAP developer and also create solutions using Java Spring Boot, applying Clean Core principles in my projects to ensure maintainability and scalability.</p>&nbsp;
+<p align="center" style="color: white;">I ❤️ solve great challenges using tech. <br><br> I am a Computer Engineering graduate, currently working as a Software Engineer focused on SaaS solutions, with an emphasis on cloud development using the SAP BTP platform and SAP CAP. I work in native environments as an SAP ABAP developer and also create solutions using Java Spring Boot, applying Clean Core principles in my projects to ensure maintainability and scalability.</p>&nbsp;
 
 
  
  &nbsp;
  &nbsp;
-
-
 
 ## My Skills
 
@@ -36,12 +34,6 @@
 ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
-#### Studying in this moment:
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-
 #### Databases:
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
@@ -53,7 +45,6 @@
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
@@ -68,10 +59,5 @@
 <a href = "mailto:contato.luisclaudionucci@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/illusion1001/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
