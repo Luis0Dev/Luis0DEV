@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Luís;I'm+22+years+old;I'm+from+Brazil;I'm+Studing+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Luís+Cláudio;I'm+23+years+old;I'm+from+Brazil;I'm++Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center" style="color: white;">I ❤️ solve great challenges using tech. <br><br> I am a Computer Engineering graduate, currently working as a Software Engineer focused on SaaS solutions, with an emphasis on cloud development using the SAP BTP platform and SAP CAP. I work in native environments as an SAP ABAP developer and also create solutions using Java Spring Boot, applying Clean Core principles in my projects to ensure maintainability and scalability.</p>&nbsp;
 
