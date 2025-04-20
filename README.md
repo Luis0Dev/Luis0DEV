@@ -20,7 +20,7 @@
 
 #### SAP Technologies:
 
-![ABAP](https://img.shields.io/badge/ABAP-0067A1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
+![SAP ABAP](https://img.shields.io/badge/ABAP-0067A1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP BTP](https://img.shields.io/badge/SAP_BTP-0E76A8?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP CPI](https://img.shields.io/badge/SAP_CPI-56A7E4?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP CAP](https://img.shields.io/badge/SAP_CAP-0E7F72?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
@@ -46,7 +46,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![SAP BAS](https://img.shields.io/badge/SAP_BAS-0E76A8?style=for-the-badge&logo=sap&logoColor=white)
 
 &nbsp;
 &nbsp;
