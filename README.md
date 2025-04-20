@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Luís;I'm+22+years+old;I'm+from+Brazil;I'm+Studing+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Spring Boot to frontend development using Native Script, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong> Software Engineering </strong> focused on mobile development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> I am a Computer Engineering graduate, currently working as a Software Engineer focused on SaaS solutions, with an emphasis on cloud development using the SAP BTP platform and SAP CAP. I work in native environments as an SAP ABAP developer and also create solutions using Java Spring Boot, applying Clean Core principles in my projects to ensure maintainability and scalability.</p>&nbsp;
 
 
  
