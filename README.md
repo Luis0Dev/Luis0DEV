@@ -11,28 +11,13 @@
 
 ## My Skills
 
-#### Main Stack:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-#### SAP Technologies:
+#### Main Stack SAP Technologies:
 
 ![SAP ABAP](https://img.shields.io/badge/ABAP-0067A1?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP BTP](https://img.shields.io/badge/SAP_BTP-0E76A8?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 ![SAP CPI](https://img.shields.io/badge/SAP_CPI-56A7E4?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
-![SAP CAP](https://img.shields.io/badge/SAP_CAP-0E7F72?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 #### Databases:
 
@@ -43,7 +28,6 @@
 
 #### Workstation Tools:
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![SAP BAS](https://img.shields.io/badge/SAP_BAS-0E76A8?style=for-the-badge&logo=sap&logoColor=white)&nbsp;
